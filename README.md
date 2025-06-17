@@ -57,4 +57,4 @@ The project uses the **Boston Housing Dataset** available on Kaggle.
 
 ## 📌 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Manas Mehta
